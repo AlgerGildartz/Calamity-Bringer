@@ -16,11 +16,11 @@ Unity DOTS
 C#
 
 #### Group
-Christophe FRACHEBOUD
+Christophe FRACHEBOUD (myself)
 Julia JOMAIN
 François CALVET
 Lionel JANIN  
-Killian PEREZ (myself)
+Killian PEREZ
 
 #### Time to realize it
 1 week
